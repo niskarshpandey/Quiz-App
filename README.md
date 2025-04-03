@@ -20,9 +20,9 @@ Quiz-app is a simple interactive quiz application built using HTML, CSS, and Jav
 
 Below is a screenshot of the Quiz-app in action:
 
-![Project Screenshot 1](Images/Screenshot_25-04-02_2502.png)
-![Project Screenshot 2](Images/Screenshot_25-04-02_2552.png)
-![Project Screenshot 3](Images/Screenshot_25-04-02_2720.png)
+![Project Screenshot 1](https://github.com/niskarshpandey/Quiz-App/blob/main/Images/Screenshot%202025-04-02%20202502.png)
+![Project Screenshot 2](https://github.com/niskarshpandey/Quiz-App/blob/main/Images/Screenshot%202025-04-02%20202552.png)
+![Project Screenshot 3](https://github.com/niskarshpandey/Quiz-App/blob/main/Images/Screenshot%202025-04-02%20202720.png)
 
 
 
